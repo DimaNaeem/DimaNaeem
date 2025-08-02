@@ -1,10 +1,7 @@
-## Hi there 👋
 
-<!--
-**DimaNaeem/DimaNaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 👋 Hi, I'm Dima Naeem
+### 👋 Hi, I'm Dima Naeem
 
-🎯 **Aspiring Data Analyst | Cybersecurity Enthusiast | Full-Stack Developer**
+🎯 **Data Analyst | Cybersecurity Enthusiast | Full-Stack Developer**
 
 I’m passionate about analyzing data to uncover insights and building secure digital solutions. With hands-on experience in data analytics (SQL, Tableau, Power BI), cybersecurity tools (Wireshark, ZAP), and full-stack projects (Java, PHP, Spring Boot), I’m constantly learning and growing.
 
